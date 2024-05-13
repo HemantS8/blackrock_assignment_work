@@ -1,0 +1,6 @@
+20240512 183735:data_quality_check_using_pandas_or_dask:[INFO]:log setup completed successfully
+20240512 183737:data_quality_check_using_pandas_or_dask:[INFO]:extract data completed successfully
+20240512 183748:data_quality_check_using_pandas_or_dask:[INFO]:date format check completed successfully
+20240512 183748:data_quality_check_using_pandas_or_dask:[INFO]:check missing and negative values completed successfully
+20240512 183749:data_quality_check_using_pandas_or_dask:[INFO]:outcome value validity check completed successfully
+20240512 183750:data_quality_check_using_pandas_or_dask:[INFO]:check correctness of outcome completed sucessfully
